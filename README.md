@@ -14,6 +14,9 @@ We are taking the nyc_benchmarking_disclosure_data where the data definition is 
 <img width="293" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Residuals" src="https://user-images.githubusercontent.com/18380810/184598729-e929ea1c-d340-452b-8c28-4975fe881dbc.png">
 ![All_correlation](https://user-images.githubusercontent.com/18380810/184598731-6b844e53-0e8b-4359-a443-8cb2d18ef47f.png)
 After removing Grid Purchase and Total GHG Emissions :
+
 <img width="303" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Actuals_vs_Predictions" src="https://user-images.githubusercontent.com/18380810/184598736-f19a6bb7-9fd1-4702-94a4-96cb5d1cbb4e.png">
+
 Before removing Grid Purchase and Total GHG Emissions :
+
 <img width="296" alt="Actuals_vs_Predictions" src="https://user-images.githubusercontent.com/18380810/184599044-aa19b5d6-b88f-45b4-8b0e-dfc30c2984aa.png">
