@@ -6,3 +6,12 @@ Over the past two centuries, mankind has increased the concentration of  in the 
 Electricity sector is the major source of the total global  emissions responsible for approximately 40% worldwide, followed by transportation, industry, and other sectors.![Image_001](https://user-images.githubusercontent.com/18380810/184597627-7629e374-a4e3-4156-ab9d-3103513cca83.png)
 As a result, we will focus on how to decrease the quantities of  emitted from electricity sector by first focussing on how and to which extent the problem is present and how much it is impactful towards site energy use.
 We are taking the nyc_benchmarking_disclosure_data where the data definition is given in nyc_benchmarking_disclosure_data_definitions_2017.pdf. Our main focus is on Site EUI (kBtu/ft²), Weather Normalized Site Electricity Intensity (kWh/ft²), Weather Normalized Site Natural Gas Intensity (therms/ft²). Unlike previous studies our target variable here is Site EUI (kBtu/ft²). As our focus here is different, we are using only Gradient Boosting Regressor Model as it has given a decent result. 
+<img width="287" alt="Site_EUI_Distribution_vs_Number_of_Buildings" src="https://user-images.githubusercontent.com/18380810/184598581-b4095432-ae38-4963-b6c1-5b0fc180e2a2.png">
+<img width="275" alt="MAE vs Num_Trees_GBMRegressor" src="https://user-images.githubusercontent.com/18380810/184598662-eafcac3f-235f-4a64-a31a-aea0660cbd31.png">
+<img width="290" alt="Mean_R2_vs_num_Trees_Performance_vs_num_trees" src="https://user-images.githubusercontent.com/18380810/184598670-18445075-3b35-4504-8380-40f3dd004214.png">
+<img width="275" alt="After_removing_Grid_Purchase_and_GHG_Emissions_MAE_vs_Num_Trees" src="https://user-images.githubusercontent.com/18380810/184598725-2d4389cb-bdd4-45c6-a956-1fedcd91bf32.png">
+<img width="290" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Mean_R2_vs_No_of_Trees" src="https://user-images.githubusercontent.com/18380810/184598727-79eb02b4-95a3-42fc-9d6a-bb578fd48459.png">
+<img width="293" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Residuals" src="https://user-images.githubusercontent.com/18380810/184598729-e929ea1c-d340-452b-8c28-4975fe881dbc.png">
+![All_correlation](https://user-images.githubusercontent.com/18380810/184598731-6b844e53-0e8b-4359-a443-8cb2d18ef47f.png)
+<img width="303" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Actuals_vs_Predictions" src="https://user-images.githubusercontent.com/18380810/184598736-f19a6bb7-9fd1-4702-94a4-96cb5d1cbb4e.png">
+
