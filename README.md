@@ -16,6 +16,18 @@ We are taking the nyc_benchmarking_disclosure_data where the data definition is 
 Total Correlations:
 
 ![All_correlation](https://user-images.githubusercontent.com/18380810/184598731-6b844e53-0e8b-4359-a443-8cb2d18ef47f.png)
+
+Categorical Correlation:
+
+![categorical_correlation](https://user-images.githubusercontent.com/18380810/184599611-f838ee40-f9b8-4702-aea8-f68ee6bce9a3.png)
+
+Numeric Correlation:
+
+
+![numerics_correlation](https://user-images.githubusercontent.com/18380810/184599683-933dd3c3-120c-4e9e-82ac-2976271b9adf.png)
+
+
+
 After removing Grid Purchase and Total GHG Emissions :
 
 <img width="303" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Actuals_vs_Predictions" src="https://user-images.githubusercontent.com/18380810/184598736-f19a6bb7-9fd1-4702-94a4-96cb5d1cbb4e.png">
