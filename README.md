@@ -12,6 +12,9 @@ We are taking the nyc_benchmarking_disclosure_data where the data definition is 
 <img width="275" alt="After_removing_Grid_Purchase_and_GHG_Emissions_MAE_vs_Num_Trees" src="https://user-images.githubusercontent.com/18380810/184598725-2d4389cb-bdd4-45c6-a956-1fedcd91bf32.png">
 <img width="290" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Mean_R2_vs_No_of_Trees" src="https://user-images.githubusercontent.com/18380810/184598727-79eb02b4-95a3-42fc-9d6a-bb578fd48459.png">
 <img width="293" alt="After_removing_Grid_Purchase_and_GHG_Emissions_Residuals" src="https://user-images.githubusercontent.com/18380810/184598729-e929ea1c-d340-452b-8c28-4975fe881dbc.png">
+
+Total Correlations:
+
 ![All_correlation](https://user-images.githubusercontent.com/18380810/184598731-6b844e53-0e8b-4359-a443-8cb2d18ef47f.png)
 After removing Grid Purchase and Total GHG Emissions :
 
